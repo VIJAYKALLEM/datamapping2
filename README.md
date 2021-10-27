@@ -19,4 +19,8 @@ There is a high concentration of construction complaints in lower manhattan, upp
 
 When we compare early childhood and elementary schools with Ice-cream truck noises, there is a correlation between them.Maybe this is because young children are their target customers and they also consume the most ice creams. And ice cream trucks often use bell sounds to attract their customers and they make a lot of noise. 
 
+Additinal Maps:
+![Sidewalkcafe](https://user-images.githubusercontent.com/70838225/139119478-9cd66d70-8878-4373-b68a-ee531d4ca8b2.png)
+![landmark sites](https://user-images.githubusercontent.com/70838225/139119575-18d11536-ac23-4b21-8f9a-32ad4c51c630.png)
+
 
