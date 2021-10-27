@@ -9,8 +9,7 @@
 
 
 3)
-![schools](https://user-images.githubusercontent.com/70838225/139128319-4deb1695-b177-4766-be2f-53ba5db0b951.png)
-
+![elementary](https://user-images.githubusercontent.com/70838225/139128700-38a9e9d3-26c3-4704-9477-866b5575fe28.png)
 
 
 The Upper west side, Washington Heights,East Village and some parts of Harlem in Manhattan had the largest number of 311 noise complaints. The reason for these trends may be because these places have a high concentration of business and landmark sites. For example there are many complaints from the Chinatown area because it is a densely populated neighborhood that draws foodies and tourists. The busy sidewalks are packed with souvenir stores, bubble tea shops, and markets selling everything from fresh and dried fish to herbs and spices.
