@@ -21,6 +21,7 @@ When we compare early childhood and elementary schools with Ice-cream truck nois
 
 Additinal Maps:
 ![Sidewalkcafe](https://user-images.githubusercontent.com/70838225/139119478-9cd66d70-8878-4373-b68a-ee531d4ca8b2.png)
-![landmark sites](https://user-images.githubusercontent.com/70838225/139119575-18d11536-ac23-4b21-8f9a-32ad4c51c630.png)
+![landmark site](https://user-images.githubusercontent.com/70838225/139120322-6012cc40-c6af-401c-8fb5-5bbc61cbe778.png)
+
 
 
